@@ -1,3 +1,8 @@
+% SPCM GUI for data acquisition and motor control
+% Author: Mathew L. Kelley
+% Affiliation: University of South Carolina
+% Version 0-1: to be continued in Version 0-2
+
 function varargout = spcm_v01(varargin)
 % SPCM_V01 MATLAB code for spcm_v01.fig
 %      SPCM_V01, by itself, creates a new SPCM_V01 or raises the existing
